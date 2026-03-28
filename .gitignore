@@ -11,3 +11,10 @@ mlruns/
 models/
 *.egg-info/
 .DS_Store
+
+# এই files গুলো .gitignore এ যোগ করো
+echo assets/results/*.png >> .gitignore
+echo data/processed/*.npy >> .gitignore
+echo data/processed/*.csv >> .gitignore
+echo models/*.pkl >> .gitignoreassets/ 
+data/processed/ 
