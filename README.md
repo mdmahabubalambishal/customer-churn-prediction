@@ -10,6 +10,5 @@ pinned: false
 license: mit
 ---
 
-# 🔮 Customer Churn Prediction
-ML-powered telecom customer churn prediction system.
-Built with XGBoost, MLflow, and Streamlit.
+# Customer Churn Prediction
+ML-powered telecom customer churn prediction.
