@@ -30,7 +30,7 @@ license: mit
 
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Open_App-FF4B4B?style=for-the-badge)](https://huggingface.co/spaces/mahabub-unlocked/customer-churn-prediction)
 [![GitHub](https://img.shields.io/badge/💻_Source_Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/mdmahabubalambishal/customer-churn-prediction)
-[![LinkedIn](https://img.shields.io/badge/👤_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/md-mahabub-alam-bishal-097b77286)
+[![LinkedIn](https://img.shields.io/badge/👤_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-mahabub-alam-bishal/)
 
 <br>
 
@@ -291,7 +291,7 @@ pytest tests/ -v
 **Mahabub Alam Bishal**
 *AI/ML Engineer | LLM & GenAI Specialist*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/md-mahabub-alam-bishal-097b77286)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-mahabub-alam-bishal/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/mdmahabubalambishal)
 [![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-Follow-FFD21E?style=for-the-badge)](https://huggingface.co/mahabub-unlocked)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:mdmahabubalambishal@gmail.com)
